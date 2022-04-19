@@ -1,0 +1,9 @@
+<service>
+    <id>springboot</id>
+    <name>springboot</name>
+    <description>机车后台</description>
+    <executable>java</executable>
+    <workingdirectory>D:\BWC_BS\jiche-admin</workingdirectory>
+    <arguments>-jar jiche-admin.jar</arguments>
+    <log mode="roll" />
+</service>

@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+*.jar
+dist.zip
+!WinSW-x64.exe

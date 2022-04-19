@@ -1,0 +1,10 @@
+<service>
+    <id>nginx</id>
+    <name>nginx</name>
+    <description>机车前台</description>
+    <description>nginx</description>
+    <executable>D:\BWC_BS\nginx-1.21.4\nginx.exe</executable>
+    <workingdirectory>D:\BWC_BS\nginx-1.21.4</workingdirectory>
+    <log mode="roll" />
+    <stopargument>-s stop</stopargument>
+</service>
